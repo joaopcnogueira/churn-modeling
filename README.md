@@ -1,1 +1,1 @@
-# churn-modeling
+# Churn Modeling
